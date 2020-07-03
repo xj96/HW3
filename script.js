@@ -28,7 +28,7 @@ function generatePassword() {
   var confirmLower = confirm("Do you want to use Lower Case Letters")
   var confirmUpper = confirm("Do you want to use Upper Case Letters")
   var confirmNum = confirm("Do you want to use Numbers")
-  var confirmSpecial = confirm("Do you want to use Special")
+  var confirmSpecial = confirm("Do you want to use Special Characters")
 
   // created a while loop where the user has to choose atleast one specification
   while (
