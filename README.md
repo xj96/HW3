@@ -1,0 +1,3 @@
+Assignment: Random Password Generator
+
+Description: This was a very difficult assignment. This assignment made me realize that I need to study more on JavaScript. I was able to complete the assignment with the help of my study group. At first I was doing things out of order, but with some help I was able to get back on track. I understand the code when I read it but was unable to come to this result on my own. 
